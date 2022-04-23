@@ -4,6 +4,7 @@
 - 👨‍🎓 I'm a computer science student.
 - 💻 I’m currently working on my first rpg Kamui
 - 🌱 I’m currently learning PyGame, Tiled, Adobe Photoshop, and much more.
+- ⚡ Fun fact: Attack on Titan and Naruto are two of my favorite Shows.
 - 📫 How to reach me: https://www.linkedin.com/in/cortona1/
 
 <!--
