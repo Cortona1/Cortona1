@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Cortona
+
+
+- 👨‍🎓 I'm a computer science student.
+- 💻 I’m currently working on my first rpg Kamui
+- 🌱 I’m currently learning PyGame, Tiled, Adobe Photoshop, and much more.
+- 📫 How to reach me: https://www.linkedin.com/in/cortona1/
 
 <!--
 **Cortona1/Cortona1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
