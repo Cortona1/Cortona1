@@ -5,7 +5,6 @@
 - 💻 I’m currently working on my first rpg Kamui
 - 🌱 I’m currently learning PyGame, Tiled, Adobe Photoshop, and much more.
 - ⚡ Fun fact: Attack on Titan and Naruto are two of my favorite Shows.
-- 📫 How to reach me: https://www.linkedin.com/in/cortona1/
 
 <!--
 **Cortona1/Cortona1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
