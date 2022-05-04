@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Cortona
+<img src="assets/WartHog.jpg" width="700" height="400" />
 
-![Sopranos X Halo](assets/WartHog.jpg)
 
 - 👨‍🎓 I'm a computer science student working on my first rpg Kamui (Theres a small gif of the gameplay at the end)
 - 🌱 I’m currently learning PyGame, Tiled, Adobe Photoshop, and much more.
