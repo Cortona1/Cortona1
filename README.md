@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Cortona
 
+![](./assets/WartHog.JPG)
+
 - 👨‍🎓 I'm a computer science student working on my first rpg Kamui
 - 🌱 I’m currently learning PyGame, Tiled, Adobe Photoshop, and much more.
 - 🎶 I love music, feel free to check out some of my favorite songs listed below.
