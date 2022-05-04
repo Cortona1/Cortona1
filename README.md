@@ -2,7 +2,7 @@
 
 ![Sopranos X Halo](assets/WartHog.jpg)
 
-- 👨‍🎓 I'm a computer science student working on my first rpg Kamui
+- 👨‍🎓 I'm a computer science student working on my first rpg Kamui (Theres a small gif of the gameplay at the end)
 - 🌱 I’m currently learning PyGame, Tiled, Adobe Photoshop, and much more.
 - 🎶 I love music, feel free to check out some of my favorite songs listed below.
 
@@ -20,6 +20,8 @@
 - ⚡ Favorite Shows: Attack on Titan, Castlevania, Death Note, Naruto, Sopranos, Sweet Home
 - 🎥 Favorite Movies: Hereditary, Midsommar, Ouija: Origin of Evil, [REC], Sinister, The Ritual, The Texas Chainsaw Massacre
 
+### A little gif of level 2 for my game Kamui.
+![KamuiRPG](assets/level2.gif)
 <!--
 **Cortona1/Cortona1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
