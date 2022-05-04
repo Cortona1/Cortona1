@@ -8,14 +8,14 @@
 
 - 🎵 Some of my favorite AMVS to vibe to when coding
     - [Playboi Carti X Castlevania](https://youtu.be/x71ZfTqxaxQ)
-    - [FREDDIE DREDD](https://youtu.be/9AOmAa96Fb4)
+    - [FREDDIE DREDD X Attack On Titan](https://youtu.be/9AOmAa96Fb4)
     - [$uicideBoys X Naruto](https://youtu.be/qnTlTrA3T2A)
 
 - 🎸 Some of my favorite rock songs to listen to are
     - [Underaoth, Moving For The Sake Of Motion](https://youtu.be/iq596Y2Fa1E)
     - [Slipknot, Left Behind](https://youtu.be/D1jQKpse7Yw)
-    - [Blessthefall, Guys Like You Make Us Look Bad](https://youtu.be/KRDx2M9jXMA)]
-
+    - [Blessthefall, Guys Like You Make Us Look Bad](https://youtu.be/KRDx2M9jXMA)
+    - [Alesana, The Thespian](https://youtu.be/8DOFsV0lxtQ)
 
 - ⚡ Favorite Shows: Attack on Titan, Castlevania, Death Note, Naruto, Sopranos, Sweet Home
 - 🎥 Favorite Movies: Hereditary, Midsommar, Ouija: Origin of Evil, [REC], Sinister, The Ritual, The Texas Chainsaw Massacre
