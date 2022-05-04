@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Cortona
 
-![](./assets/WartHog.JPG)
+![Sopranos X Halo](assets/WartHog.jpg)
 
 - 👨‍🎓 I'm a computer science student working on my first rpg Kamui
 - 🌱 I’m currently learning PyGame, Tiled, Adobe Photoshop, and much more.
@@ -18,7 +18,7 @@
 
 
 - ⚡ Favorite Shows: Attack on Titan, Castlevania, Death Note, Naruto, Sopranos, Sweet Home
-- 🎥 Favorite Movies: 
+- 🎥 Favorite Movies: Hereditary, Midsommar, Ouija: Origin of Evil, [REC], Sinister, The Ritual, The Texas Chainsaw Massacre
 
 <!--
 **Cortona1/Cortona1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
