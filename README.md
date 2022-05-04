@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Cortona
 
+![SporanosXHalo](./assets/WartHog.JPG)
 
 - 👨‍🎓 I'm a computer science student working on my first rpg Kamui
 - 🌱 I’m currently learning PyGame, Tiled, Adobe Photoshop, and much more.
@@ -16,7 +17,8 @@
     - [Blessthefall, Guys Like You Make Us Look Bad](https://youtu.be/KRDx2M9jXMA)]
 
 
-- ⚡ Favorite Shows: Attack on Titan, Castlevania, Death Note, Naruto, Sweet Home
+- ⚡ Favorite Shows: Attack on Titan, Castlevania, Death Note, Naruto, Sopranos, Sweet Home
+- 🎥 Favorite Movies: 
 
 <!--
 **Cortona1/Cortona1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
