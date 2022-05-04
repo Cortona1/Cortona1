@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Cortona
+<img src="./assets/WartHog.JPG" width="600">
 
-![SporanosXHalo](./assets/WartHog.JPG)
 
 - 👨‍🎓 I'm a computer science student working on my first rpg Kamui
 - 🌱 I’m currently learning PyGame, Tiled, Adobe Photoshop, and much more.
