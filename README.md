@@ -7,6 +7,7 @@
 - 🎶 I love music, feel free to check out some of my favorite songs listed below.
 
 - 🎵 Some of my favorite AMVS to vibe to when coding
+    - [Blankz X One Piece](https://youtu.be/XyNDHDekIkU)    
     - [Playboi Carti X Castlevania](https://youtu.be/x71ZfTqxaxQ)
     - [FREDDIE DREDD X Attack On Titan](https://youtu.be/9AOmAa96Fb4)
     - [$uicideBoys X Naruto](https://youtu.be/qnTlTrA3T2A)
