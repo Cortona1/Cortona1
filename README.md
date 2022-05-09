@@ -22,6 +22,7 @@
 - 🎥 Favorite Movies: Hereditary, Midsommar, Ouija: Origin of Evil, [REC], Sinister, The Ritual, The Texas Chainsaw Massacre
 
 ### A little gif of level 2 for my game Kamui.
+I'm writing the code, designing the maps, and drawing (world assets, characters monsters physical/magic weapons)
 ![KamuiRPG](assets/level2.gif)
 <!--
 **Cortona1/Cortona1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
