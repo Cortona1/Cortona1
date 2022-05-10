@@ -23,7 +23,7 @@
 
 ### A little gif of level 2 for my game Kamui.
 I'm writing the code, designing the maps, and drawing all the following (characters, monsters, physical/magic weapons) myself
-![KamuiRPG](assets/level2.gif)
+![KamuiRPG](assets/level2progress.gif)
 <!--
 **Cortona1/Cortona1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
