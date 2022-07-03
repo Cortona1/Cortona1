@@ -18,7 +18,7 @@
     - [Slipknot, Left Behind](https://youtu.be/D1jQKpse7Yw)
     - [Underaoth, Moving For The Sake Of Motion](https://youtu.be/iq596Y2Fa1E)
 
-- ⚡ Favorite Shows: Attack on Titan, Castlevania, Death Note, Naruto, Sopranos, Sweet Home
+- ⚡ Favorite Shows: Attack on Titan, Castlevania, Death Note, JoJo's Bizarre Adventure, Naruto, Sopranos, Sweet Home
 - 🎥 Favorite Movies: Hereditary, Midsommar, Ouija: Origin of Evil, [REC], Sinister, The Ritual, The Texas Chainsaw Massacre
 
 ### Some gifs from my game (work in progress).
@@ -26,6 +26,8 @@ I'm writing the code, designing the maps, and drawing all the following (charact
 ![KamuiRPG](assets/desert.gif)
 
 ![KamuiRPG](assets/snow.gif)
+
+>>>>>>>
 <!--
 **Cortona1/Cortona1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
