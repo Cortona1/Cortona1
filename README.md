@@ -2,8 +2,9 @@
 <img src="assets/WartHog.jpg" width="700" height="400" />
 
 
-- 👨‍🎓 I'm a computer science student working on my first rpg Kamui (Theres a small gif of the gameplay at the end)
-- 🌱 I’m currently learning PyGame, Tiled, Adobe Photoshop, and much more.
+- 👨‍🎓 I have two Bachelor's in Biology and Computer Science, and I'm now studying for my Master's in Computer Science.
+- 💻 I'm coding my first rpg Kamui (Theres some gifs of the gameplay at the end)
+- 🌱 I’m currently learning PyGame, Machine Learning, Tiled, Adobe Photoshop, and much more.
 - 🎶 I love music, feel free to check out some of my favorite songs listed below.
 
 - 🎵 Some of my favorite AMVS to vibe to when coding
