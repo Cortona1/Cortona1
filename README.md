@@ -19,7 +19,7 @@
     - [Slipknot, Left Behind](https://youtu.be/D1jQKpse7Yw)
     - [Underaoth, Moving For The Sake Of Motion](https://youtu.be/iq596Y2Fa1E)
 
-- ⚡ Favorite Shows: Attack on Titan, Castlevania, Death Note, JoJo's Bizarre Adventure, Naruto, Sopranos, Sweet Home
+- ⚡ Favorite Shows: Attack on Titan, Castlevania, Death Note, JoJo's Bizarre Adventure, Naruto, One Punch, Sopranos, Sweet Home
 - 🎥 Favorite Movies: Hereditary, Midsommar, Ouija: Origin of Evil, [REC], Sinister, The Ritual, The Texas Chainsaw Massacre
 
 ### Some gifs from my game (work in progress).
